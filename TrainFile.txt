@@ -1,0 +1,11 @@
+3;50;Unayzah;Buraydah
+5;40;Al Badaya;Buraydah
+4;40;Ar Rass;Buraydah
+2;30;Al Khabraa;Buraydah
+1;50;Buraydah;Unayzah
+7;40;Bukairiyah;Unayzah
+9;60;Ar Rass;Al Badaya
+12;40;Unayzah;Oyun Al Jiwaa
+10;40;Al Badaya;Al Khabraa
+15;60;Unayzah;Oyun Al Jiwaa
+11;50;Bukairiyah;Buraydah
